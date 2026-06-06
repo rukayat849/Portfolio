@@ -169,4 +169,4 @@ projects.forEach(function (project) {
    .getFullYear() → 4-digit year as a number
 */
 const footerCopy = document.getElementById('footer-copy');
-footerCopy.textContent = '© ' + new Date().getFullYear() + ' Dan. All rights reserved.';
+footerCopy.textContent = '© ' + new Date().getFullYear() + ' Dan. All rights reserved.'
